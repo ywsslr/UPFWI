@@ -1,0 +1,1 @@
+## 这里是UPFWI的正演部分,负责将InversionNet生成的v_map使用有限差分方法获取seis_data
