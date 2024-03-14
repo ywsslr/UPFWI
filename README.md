@@ -8,8 +8,8 @@ the NN architecture I chooose now is the InversionNet.
 the simulation programe I choose is deepwave
 
 ## the Architecture
-![alt text](image.png)
-![alt text](image-1.png)
+![alt text](./Image/UPFWI.png)
+![alt text](./Image/InversionNet.png)
 
 ## the reference
 <a id="ref1">[1]</a> 
